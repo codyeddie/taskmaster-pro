@@ -9,6 +9,6 @@ Taskmaster Pro is an application that lets you create tasks dynamically with a c
 * JavaScript (jQuery)
 
 ## Contribution
-Made with $hearts; by Cody Eddie
+Made with ♥ by Cody Eddie
 
 ## &copy; Taskmaster Pro, Inc
